@@ -1,0 +1,10 @@
+#load libraries
+library(sf)
+library(rgdal)
+library(sp)
+library(rgeos)
+library(raster)
+library(gstat)
+library(spdep)
+library(spatstat)
+library(tidyverse)
